@@ -1,0 +1,25 @@
+{
+  "name": "serialjs",
+  "version": "0.9.1",
+  "description": "Library to serialize and unserialize instance of classes",
+  "main": "src/serialjs.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "json",
+    "stringify",
+    "serialize",
+    "unserialize",
+    "model",
+    "class",
+    "oop",
+    "data"
+  ],
+  "author": "Steven Lariau <obs145628@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obs145628/serialjs"
+  }
+}
